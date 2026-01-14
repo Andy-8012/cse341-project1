@@ -1,0 +1,23 @@
+{
+  "name": "cse341-project1",
+  "version": "1.0.0",
+  "description": "1st project for CSE341",
+  "homepage": "https://github.com/Andy-8012/cse341-project1#readme",
+  "bugs": {
+    "url": "https://github.com/Andy-8012/cse341-project1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andy-8012/cse341-project1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
